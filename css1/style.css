@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(43, 120, 144);
+}
+h1 {
+    color: #8ECDDD;
+}
+h2 {
+    color: #8ECDDD;
+}
+h3 {
+    color: #8ECDDD;
+}
+h4 {
+    color: #8ECDDD;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: grey;               
+    border-width: 5px;
+    width: 5%;
+}

@@ -1,0 +1,48 @@
+/**************************Tag Selectors**********************************/
+h1 {
+    color : red;
+    font-size: 100px;
+}
+
+/*
+img  {
+    background-color: red;
+
+}*/
+/*******************************its a pseudo class of hover************************************/
+img:hover
+ {
+    background-color: gold;
+
+
+}
+/**************************Class Selectors**********************************/
+.broccali {
+    background-color: red;
+}
+.cake {
+    background-color: green;
+}
+.circular {
+    border-radius: 100%;
+}
+.pizza {
+    background-color: blue;
+}
+/**************************Id Selectors**********************************/
+/*we have more then one class in one line but we have only one id in one class and that id name only use once means we cant give that name to any other as an id*/
+#heading {
+    color:pink;
+}
+#para1 {
+    color: yellow;
+}
+#para2 {
+    color: orange;
+}
+#para3 {
+    color: blue;
+}
+#para4 {
+    color: purple;
+}
